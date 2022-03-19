@@ -1,0 +1,193 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  margin: 0 auto 0 auto;
+  color: white;
+  font-weight: bold;
+  font-size: 4.20rem;
+  position: absolute;
+  bottom: 250px;
+  left:324px;
+
+}
+
+h2{
+ color: white;
+ font-weight: bold;
+ position: absolute;
+ bottom: 300px;
+ left: 330px;
+
+}
+
+
+p {
+  color: white;
+  position: absolute;
+  bottom: 100px;
+  left: 323px;
+  text-indent: 1px;
+  line-height: 1.2;
+font-family: 'Montserrat', sans-serif;
+  text-align:justify;
+
+}
+
+.top-container{
+  background-color: black;
+max-height: 800px;
+padding-top: 100px;
+position: relative;
+}
+
+.myimage {
+  image-resolution: snap;
+  width: 20%;
+  height: 20%;
+  position: relative;
+  left: 265px;
+}
+
+h5{
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  bottom: 60px;
+  left: 325px;
+font-family: 'Merriweather', serif;
+}
+.webdevelopment{
+  position: relative;
+  top: 55px;
+  right: 40px;
+  left: 10px;
+  font-size: 2.0rem;
+}
+.websiteimage{
+  width: 15%;
+  height: 15%;
+  top: 10px;
+  position: relative;
+  right: 350px;
+bottom: 10px;
+  float: right;
+}
+.chessimage{
+  width: 15%;
+  height: 15%;
+  position: relative;
+  right: 180px;
+  bottom: 10px;
+}
+.myskills{
+  color: red;
+  padding: 30px;
+  position: relative;
+  font-size: 3.4rem;
+  top: 50px;
+  left: 5px;
+}
+.webpara{
+  position: relative;
+  left: 380px;
+  bottom: 40px;
+  right: 20px;
+  color: black;
+  text-align: justify;
+  font-weight: normal;
+  font-family: serif;
+  padding: 54px;
+}
+.chesshead{
+  font-size: 2.0rem;
+  position: absolute;
+  bottom:534px;
+  right: 370px;
+  color: black;
+}
+.chesspara{
+  position: relative;
+  bottom: 160px;
+  left: 600px;
+  font-weight: normal;
+  font-family: serif;
+  color: black;
+  text-align:justify;
+}
+
+.getintouch{
+  color: green;
+  position: absolute;
+  right: 30px;
+  left: 20px;
+  bottom: 130px;
+  padding: 10px;
+
+}
+
+.web{
+  text-decoration: underline;
+}
+
+.middle-container{
+background-color: #F9F9F9;
+width: 100%;
+height: 200%;
+position: absolute;
+}
+
+.btn {
+  -webkit-border-radius: 50;
+  -moz-border-radius: 50;
+  border-radius: 50px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 50px;
+}
+
+.conclusion{
+  position: relative;
+  top: 40px;
+  font-weight: bold;
+  color: black;
+}
+
+.footer-link {
+  position: relative;
+  bottom: 75px;
+  padding: 10px;
+}
+
+.copyright{
+  position: relative;
+  font-weight: bold;
+  color:white;
+  left: 530px;
+  bottom: 35px;
+  padding: 10px;
+  font-size: 0.8rem;
+}
+
+hr {
+  border: dotted #1B1A17 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: auto auto 100px auto;
+
+}
+
+.bottom-container {
+background-color:black;
+width: 100%;
+height: 5%;
+position: relative;
+top: 150px;
+}
